@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/signUpFirebase/static/css/main.4d31a772.chunk.css",
-    "main.js": "/signUpFirebase/static/js/main.137de40f.chunk.js",
-    "main.js.map": "/signUpFirebase/static/js/main.137de40f.chunk.js.map",
+    "main.js": "/signUpFirebase/static/js/main.cad7f44d.chunk.js",
+    "main.js.map": "/signUpFirebase/static/js/main.cad7f44d.chunk.js.map",
     "runtime-main.js": "/signUpFirebase/static/js/runtime-main.1891e0bc.js",
     "runtime-main.js.map": "/signUpFirebase/static/js/runtime-main.1891e0bc.js.map",
     "static/js/2.ca88a691.chunk.js": "/signUpFirebase/static/js/2.ca88a691.chunk.js",
     "static/js/2.ca88a691.chunk.js.map": "/signUpFirebase/static/js/2.ca88a691.chunk.js.map",
     "index.html": "/signUpFirebase/index.html",
-    "precache-manifest.dc1d3d58651aa4875b579569166f66ad.js": "/signUpFirebase/precache-manifest.dc1d3d58651aa4875b579569166f66ad.js",
+    "precache-manifest.2d5b026aaf30b1c8c300aa4ef4414a4c.js": "/signUpFirebase/precache-manifest.2d5b026aaf30b1c8c300aa4ef4414a4c.js",
     "service-worker.js": "/signUpFirebase/service-worker.js",
     "static/css/main.4d31a772.chunk.css.map": "/signUpFirebase/static/css/main.4d31a772.chunk.css.map",
     "static/js/2.ca88a691.chunk.js.LICENSE": "/signUpFirebase/static/js/2.ca88a691.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1891e0bc.js",
     "static/js/2.ca88a691.chunk.js",
     "static/css/main.4d31a772.chunk.css",
-    "static/js/main.137de40f.chunk.js"
+    "static/js/main.cad7f44d.chunk.js"
   ]
 }

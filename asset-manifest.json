@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/signUpFirebase/static/css/main.4d31a772.chunk.css",
-    "main.js": "/signUpFirebase/static/js/main.cad7f44d.chunk.js",
-    "main.js.map": "/signUpFirebase/static/js/main.cad7f44d.chunk.js.map",
+    "main.css": "/signUpFirebase/static/css/main.e3e022b4.chunk.css",
+    "main.js": "/signUpFirebase/static/js/main.4ed17fa8.chunk.js",
+    "main.js.map": "/signUpFirebase/static/js/main.4ed17fa8.chunk.js.map",
     "runtime-main.js": "/signUpFirebase/static/js/runtime-main.1891e0bc.js",
     "runtime-main.js.map": "/signUpFirebase/static/js/runtime-main.1891e0bc.js.map",
-    "static/js/2.ca88a691.chunk.js": "/signUpFirebase/static/js/2.ca88a691.chunk.js",
-    "static/js/2.ca88a691.chunk.js.map": "/signUpFirebase/static/js/2.ca88a691.chunk.js.map",
+    "static/js/2.10b06afa.chunk.js": "/signUpFirebase/static/js/2.10b06afa.chunk.js",
+    "static/js/2.10b06afa.chunk.js.map": "/signUpFirebase/static/js/2.10b06afa.chunk.js.map",
     "index.html": "/signUpFirebase/index.html",
-    "precache-manifest.2d5b026aaf30b1c8c300aa4ef4414a4c.js": "/signUpFirebase/precache-manifest.2d5b026aaf30b1c8c300aa4ef4414a4c.js",
+    "precache-manifest.c81a281fa11f096f7e07049058e3873e.js": "/signUpFirebase/precache-manifest.c81a281fa11f096f7e07049058e3873e.js",
     "service-worker.js": "/signUpFirebase/service-worker.js",
-    "static/css/main.4d31a772.chunk.css.map": "/signUpFirebase/static/css/main.4d31a772.chunk.css.map",
-    "static/js/2.ca88a691.chunk.js.LICENSE": "/signUpFirebase/static/js/2.ca88a691.chunk.js.LICENSE"
+    "static/css/main.e3e022b4.chunk.css.map": "/signUpFirebase/static/css/main.e3e022b4.chunk.css.map",
+    "static/js/2.10b06afa.chunk.js.LICENSE": "/signUpFirebase/static/js/2.10b06afa.chunk.js.LICENSE",
+    "static/media/imageLogin.jpg": "/signUpFirebase/static/media/imageLogin.5a34b187.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1891e0bc.js",
-    "static/js/2.ca88a691.chunk.js",
-    "static/css/main.4d31a772.chunk.css",
-    "static/js/main.cad7f44d.chunk.js"
+    "static/js/2.10b06afa.chunk.js",
+    "static/css/main.e3e022b4.chunk.css",
+    "static/js/main.4ed17fa8.chunk.js"
   ]
 }

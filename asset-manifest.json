@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/signUpFirebase/static/css/main.ad77bc6e.chunk.css",
-    "main.js": "/signUpFirebase/static/js/main.4ed17fa8.chunk.js",
-    "main.js.map": "/signUpFirebase/static/js/main.4ed17fa8.chunk.js.map",
+    "main.css": "/signUpFirebase/static/css/main.f778c765.chunk.css",
+    "main.js": "/signUpFirebase/static/js/main.1aa30009.chunk.js",
+    "main.js.map": "/signUpFirebase/static/js/main.1aa30009.chunk.js.map",
     "runtime-main.js": "/signUpFirebase/static/js/runtime-main.1891e0bc.js",
     "runtime-main.js.map": "/signUpFirebase/static/js/runtime-main.1891e0bc.js.map",
-    "static/js/2.10b06afa.chunk.js": "/signUpFirebase/static/js/2.10b06afa.chunk.js",
-    "static/js/2.10b06afa.chunk.js.map": "/signUpFirebase/static/js/2.10b06afa.chunk.js.map",
+    "static/js/2.dd2c877c.chunk.js": "/signUpFirebase/static/js/2.dd2c877c.chunk.js",
+    "static/js/2.dd2c877c.chunk.js.map": "/signUpFirebase/static/js/2.dd2c877c.chunk.js.map",
     "index.html": "/signUpFirebase/index.html",
-    "precache-manifest.0053a6c7cb85a872c2fd661e2d3cad03.js": "/signUpFirebase/precache-manifest.0053a6c7cb85a872c2fd661e2d3cad03.js",
+    "precache-manifest.5861befc9364f3438b9d68c5d4ab9886.js": "/signUpFirebase/precache-manifest.5861befc9364f3438b9d68c5d4ab9886.js",
     "service-worker.js": "/signUpFirebase/service-worker.js",
-    "static/css/main.ad77bc6e.chunk.css.map": "/signUpFirebase/static/css/main.ad77bc6e.chunk.css.map",
-    "static/js/2.10b06afa.chunk.js.LICENSE": "/signUpFirebase/static/js/2.10b06afa.chunk.js.LICENSE",
-    "static/media/imageLogin.jpg": "/signUpFirebase/static/media/imageLogin.5a34b187.jpg"
+    "static/css/main.f778c765.chunk.css.map": "/signUpFirebase/static/css/main.f778c765.chunk.css.map",
+    "static/js/2.dd2c877c.chunk.js.LICENSE": "/signUpFirebase/static/js/2.dd2c877c.chunk.js.LICENSE",
+    "static/media/imageLogin.jpg": "/signUpFirebase/static/media/imageLogin.5a34b187.jpg",
+    "static/media/left-background.jpg": "/signUpFirebase/static/media/left-background.3299aa7f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1891e0bc.js",
-    "static/js/2.10b06afa.chunk.js",
-    "static/css/main.ad77bc6e.chunk.css",
-    "static/js/main.4ed17fa8.chunk.js"
+    "static/js/2.dd2c877c.chunk.js",
+    "static/css/main.f778c765.chunk.css",
+    "static/js/main.1aa30009.chunk.js"
   ]
 }

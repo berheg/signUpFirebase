@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/signUpFirebase/static/css/main.f778c765.chunk.css",
-    "main.js": "/signUpFirebase/static/js/main.75c62b74.chunk.js",
-    "main.js.map": "/signUpFirebase/static/js/main.75c62b74.chunk.js.map",
+    "main.css": "/signUpFirebase/static/css/main.36c9e133.chunk.css",
+    "main.js": "/signUpFirebase/static/js/main.92f00b5e.chunk.js",
+    "main.js.map": "/signUpFirebase/static/js/main.92f00b5e.chunk.js.map",
     "runtime-main.js": "/signUpFirebase/static/js/runtime-main.1891e0bc.js",
     "runtime-main.js.map": "/signUpFirebase/static/js/runtime-main.1891e0bc.js.map",
     "static/js/2.dd2c877c.chunk.js": "/signUpFirebase/static/js/2.dd2c877c.chunk.js",
     "static/js/2.dd2c877c.chunk.js.map": "/signUpFirebase/static/js/2.dd2c877c.chunk.js.map",
     "index.html": "/signUpFirebase/index.html",
-    "precache-manifest.029bcb31d8cca3d5b4b27cb5e110101b.js": "/signUpFirebase/precache-manifest.029bcb31d8cca3d5b4b27cb5e110101b.js",
+    "precache-manifest.3ad158ca1a3fbf7cec12ad015a0e0820.js": "/signUpFirebase/precache-manifest.3ad158ca1a3fbf7cec12ad015a0e0820.js",
     "service-worker.js": "/signUpFirebase/service-worker.js",
-    "static/css/main.f778c765.chunk.css.map": "/signUpFirebase/static/css/main.f778c765.chunk.css.map",
+    "static/css/main.36c9e133.chunk.css.map": "/signUpFirebase/static/css/main.36c9e133.chunk.css.map",
     "static/js/2.dd2c877c.chunk.js.LICENSE": "/signUpFirebase/static/js/2.dd2c877c.chunk.js.LICENSE",
     "static/media/imageLogin.jpg": "/signUpFirebase/static/media/imageLogin.5a34b187.jpg",
     "static/media/left-background.jpg": "/signUpFirebase/static/media/left-background.3299aa7f.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.1891e0bc.js",
     "static/js/2.dd2c877c.chunk.js",
-    "static/css/main.f778c765.chunk.css",
-    "static/js/main.75c62b74.chunk.js"
+    "static/css/main.36c9e133.chunk.css",
+    "static/js/main.92f00b5e.chunk.js"
   ]
 }
